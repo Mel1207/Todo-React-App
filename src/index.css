@@ -39,6 +39,7 @@ body {
   text-decoration: none;
   font-size: 15px;
   font-family: inherit;
+  transition: 0.3s ease-in;
 }
 
 .btn:focus {
@@ -63,7 +64,7 @@ body {
 }
 
 .task.reminder {
-  border-left: 7px solid rgb(89, 233, 137);
+  border-left: 7px solid #59e989;
 }
 
 .task h3 {
@@ -87,7 +88,7 @@ body {
 .form-control input {
   width: 100%;
   height: 40px;
-  margin: 5px;
+  margin: 5px 0;
   padding: 3px 7px;
   font-size: 17px;
 }
