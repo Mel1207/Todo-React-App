@@ -5,6 +5,18 @@
       "text": "Coding Session",
       "day": "everyday",
       "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Morning Session",
+      "day": "saturday",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Rest Session",
+      "day": "Sunday",
+      "reminder": true
     }
   ]
 }
